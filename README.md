@@ -21,16 +21,16 @@ This project file is to preprocess an NBA dataset, analyze the data, and underst
     - Loading the nba.csv file into a DataFrame.
       
 2.	Data Preprocessing
-    o	Removing any rows with missing information.
-    o	Removing all duplicate rows.
-    o	Shuffle the data and split it into training (80%) and test (20%) sets.
+    - Removing any rows with missing information.
+    - Removing all duplicate rows.
+    - Shuffle the data and split it into training (80%) and test (20%) sets.
   	
 4.	Statistical Description
-    o	Calculating and displaying the statistical description for both the training and test datasets.
+    - Calculating and displaying the statistical description for both the training and test datasets.
   	
 6.	Correlation Analysis
-    o	Finding the correlation between the salaries of the following teams:
-    	Boston Celtics
-    	Brooklyn Nets
-    	New York Knicks
+    - Finding the correlation between the salaries of the following teams:
+     1. Boston Celtics
+     2. Brooklyn Nets
+     3.	New York Knicks
 
